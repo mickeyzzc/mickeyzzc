@@ -18,7 +18,6 @@
 | 项目 | 简介 |
 | --- | --- |
 | [MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) ⭐ | 轻量自托管 NVR，单二进制零依赖，RTSP/ONVIF/GB28181 接入，WebRTC/HLS 播放，可在低功耗 ARM 设备运行 |
-| [MiBeeReach](https://github.com/mickeyzzc/MiBeeReach) | 自部署、隐私可控的统一远程管理平台（远程桌面/终端/SSH/内网穿透），Rust 实现 |
 | [security-collector-exporter](https://github.com/mickeyzzc/security-collector-exporter) | 面向 Prometheus 的 Linux 安全信息采集器，监控系统安全状态 |
 | [MiBeeSteward](https://github.com/Mi-Bee-Studio/MiBeeSteward) | 设备管理与监控系统，SNMP/ICMP/HTTP 探测、网络扫描，单二进制部署 |
 | [MiBeeHive](https://github.com/Mi-Bee-Studio/MiBeeHive) | 轻量自托管运维工具供应链：自动收集并分发 APT/PyPI/NPM 等软件源 |
@@ -41,7 +40,6 @@ An Ops/DevOps engineer who grew from operations into development (known online i
 | Project | About |
 | --- | --- |
 | [MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) ⭐ | Lightweight self-hosted NVR — single static binary, zero deps; RTSP/ONVIF/GB28181 ingest, WebRTC/HLS playback, runs on low-power ARM |
-| [MiBeeReach](https://github.com/mickeyzzc/MiBeeReach) | Self-hosted, privacy-first remote management (desktop/terminal/SSH/tunnel), written in Rust |
 | [security-collector-exporter](https://github.com/mickeyzzc/security-collector-exporter) | Linux security information collector for Prometheus |
 | [MiBeeSteward](https://github.com/Mi-Bee-Studio/MiBeeSteward) | Device management & monitoring: SNMP/ICMP/HTTP probing, network scanning, single-binary deploy |
 | [MiBeeHive](https://github.com/Mi-Bee-Studio/MiBeeHive) | Lightweight self-hosted ops-tooling supply chain — auto-collect and serve APT/PyPI/NPM sources, no agent |
