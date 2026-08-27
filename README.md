@@ -6,7 +6,7 @@
 
 ## 中文
 
-一名从运维走向开发的运维开发工程师，热衷于**可观测性（Observability）**与**云原生**技术，同时是一名嵌入式与 IoT 爱好者。创建了 [Mi&amp;Bee Studio](https://github.com/Mi-Bee-Studio)，专注自托管、隐私可控的软件与硬件产品。
+一名从运维走向开发的运维开发工程师，中文网名**蓝宝石的傻话**，热衷于**可观测性（Observability）**与**云原生**技术，同时是一名嵌入式与 IoT 爱好者。创建了 [Mi&amp;Bee Studio](https://github.com/Mi-Bee-Studio)，专注自托管、隐私可控的软件与硬件产品。**MiBee** 之名取自我英文网名 **Mickeyzzc** 的 *Mi*，与我爱人网名 **Bee** 的组合。
 
 - 🛠 **技术栈**：Golang / Rust / Python / Shell / Lua / C；ESP32、STM32 等嵌入式开发
 - 📊 **监控平台**：基于 Prometheus / Thanos / VictoriaMetrics 搭建过支持日千亿指标量的跨地域混合云监控平台，持有 4 项专利
@@ -29,7 +29,7 @@
 
 ## English
 
-An Ops/DevOps engineer who grew from operations into development. Passionate about **observability** and **cloud-native** technologies, and an embedded/IoT tinkerer. Founder of [Mi&amp;Bee Studio](https://github.com/Mi-Bee-Studio), focused on self-hosted, privacy-first software and hardware.
+An Ops/DevOps engineer who grew from operations into development (known online in Chinese communities as **蓝宝石的傻话**). Passionate about **observability** and **cloud-native** technologies, and an embedded/IoT tinkerer. Founder of [Mi&amp;Bee Studio](https://github.com/Mi-Bee-Studio), focused on self-hosted, privacy-first software and hardware. The name **MiBee** combines the *Mi* from my handle **Mickeyzzc** with my wife's handle, **Bee**.
 
 - 🛠 **Tech stack**: Golang / Rust / Python / Shell / Lua / C; embedded dev on ESP32, STM32, etc.
 - 📊 **Monitoring**: Built a cross-region hybrid-cloud monitoring platform handling billions of metrics per day with Prometheus / Thanos / VictoriaMetrics; holder of 4 patents
