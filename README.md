@@ -23,8 +23,12 @@
 | [MiBeeHive](https://github.com/Mi-Bee-Studio/MiBeeHive) | 轻量自托管运维工具供应链：自动收集并分发 APT/PyPI/NPM 等软件源 |
 | [stream-metrics-route](https://github.com/mickeyzzc/stream-metrics-route) | 高性能指标路由网关，双 Hashmod 调度，支持 Remote Write / Kafka / 熔断；已在某企业内部落地，支撑亿级高维数据的流计算处理 |
 | [onvif-go](https://github.com/mickeyzzc/onvif-go) | ONVIF 客户端 + 虚拟相机服务，零第三方依赖，兼容海康/Axis/大华等设备 |
+| [onvif-rs](https://github.com/mickeyzzc/onvif-rs) | ONVIF 设备端（服务端）Rust 库：Device/Media/Imaging/PTZ SOAP 服务、WS-Discovery 应答、WS-Security 鉴权；字节稳定响应，专为 NVR 对接适配 |
+| [gb28181-go](https://github.com/mickeyzzc/gb28181-go) | GB/T 28181-2016/2022 Go 库：设备端（UAC）与平台（UAS）双角色，SIP 信令、MANSCDP XML、RTP/PS 媒体与回放 |
+| [gb28181-rs](https://github.com/mickeyzzc/gb28181-rs) | GB/T 28181-2016/2022 Rust 设备端（UAC）库：SIP 信令、MANSCDP XML、RTP/PS 推流与回放 |
 | [hugo-themes-zhi](https://github.com/mickeyzzc/hugo-themes-zhi) | 极简 Hugo 博客主题：明暗模式、MathJax、Mermaid，纯 Hugo Pipes 零构建工具 |
 | [esp32 系列](https://github.com/orgs/Mi-Bee-Studio/repositories?q=esp32) | 多款 ESP32 摄像头固件：MJPEG 推流、移动侦测、OTA、Web 配置 |
+| [mibee-eye-raspi-go](https://github.com/Mi-Bee-Studio/mibee-eye-raspi-go) | 树莓派轻量 ONVIF 相机服务（Go）：ONVIF Device/Media/PTZ/Imaging、RTSP 推流、RTMP 推送、WS-Discovery，便于接入 NVR/VMS |
 
 ## English
 
@@ -45,8 +49,12 @@ An Ops/DevOps engineer who grew from operations into development (known online i
 | [MiBeeHive](https://github.com/Mi-Bee-Studio/MiBeeHive) | Lightweight self-hosted ops-tooling supply chain — auto-collect and serve APT/PyPI/NPM sources, no agent |
 | [stream-metrics-route](https://github.com/mickeyzzc/stream-metrics-route) | High-performance metrics routing gateway with Remote Write / Kafka support; deployed in production to handle streaming computation of billions of high-dimensional metrics |
 | [onvif-go](https://github.com/mickeyzzc/onvif-go) | ONVIF client + virtual camera server in Go, zero third-party deps |
+| [onvif-rs](https://github.com/mickeyzzc/onvif-rs) | ONVIF Device (server) library in Rust — SOAP Device/Media/Imaging/PTZ, WS-Discovery responder, WS-Security auth; byte-stable responses for NVR interop |
+| [gb28181-go](https://github.com/mickeyzzc/gb28181-go) | GB/T 28181-2016/2022 libraries for Go — device (UAC) and platform (UAS) roles: SIP signaling, MANSCDP XML, RTP/PS media, playback |
+| [gb28181-rs](https://github.com/mickeyzzc/gb28181-rs) | GB/T 28181-2016/2022 device-side (UAC) library for Rust — SIP signaling, MANSCDP XML, RTP/PS media push, playback |
 | [hugo-themes-zhi](https://github.com/mickeyzzc/hugo-themes-zhi) | Minimal Hugo blog theme built with pure Hugo Pipes |
 | [ESP32 series](https://github.com/orgs/Mi-Bee-Studio/repositories?q=esp32) | ESP32 camera firmwares: MJPEG streaming, motion detection, OTA, web config |
+| [mibee-eye-raspi-go](https://github.com/Mi-Bee-Studio/mibee-eye-raspi-go) | Lightweight Go ONVIF camera service for Raspberry Pi — ONVIF Device/Media/PTZ/Imaging, RTSP streaming, RTMP push, WS-Discovery for NVR/VMS integration |
 
 ---
 
