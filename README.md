@@ -28,7 +28,7 @@
 | [gb28181-rs](https://github.com/mickeyzzc/gb28181-rs) | GB/T 28181-2016/2022 Rust 设备端（UAC）库：SIP 信令、MANSCDP XML、RTP/PS 推流与回放 |
 | [hugo-themes-zhi](https://github.com/mickeyzzc/hugo-themes-zhi) | 极简 Hugo 博客主题：明暗模式、MathJax、Mermaid，纯 Hugo Pipes 零构建工具 |
 | [esp32 系列](https://github.com/orgs/Mi-Bee-Studio/repositories?q=esp32) | 多款 ESP32 摄像头固件：MJPEG 推流、移动侦测、OTA、Web 配置 |
-| [mibee-eye-raspi-go](https://github.com/Mi-Bee-Studio/mibee-eye-raspi-go) | 树莓派轻量 ONVIF 相机服务（Go）：ONVIF Device/Media/PTZ/Imaging、RTSP 推流、RTMP 推送、WS-Discovery，便于接入 NVR/VMS |
+| [MiBee Eye 相机家族](https://github.com/xiqing85/mibee-eye-rs) | 把任意 Linux 板子/PC 变成 ONVIF/GB28181 摄像机：Rust/Go 双实现 + PC 采集端 + 统一 WebUI（xiqing85 账号维护） |
 
 ## English
 
@@ -54,7 +54,7 @@ An Ops/DevOps engineer who grew from operations into development (known online i
 | [gb28181-rs](https://github.com/mickeyzzc/gb28181-rs) | GB/T 28181-2016/2022 device-side (UAC) library for Rust — SIP signaling, MANSCDP XML, RTP/PS media push, playback |
 | [hugo-themes-zhi](https://github.com/mickeyzzc/hugo-themes-zhi) | Minimal Hugo blog theme built with pure Hugo Pipes |
 | [ESP32 series](https://github.com/orgs/Mi-Bee-Studio/repositories?q=esp32) | ESP32 camera firmwares: MJPEG streaming, motion detection, OTA, web config |
-| [mibee-eye-raspi-go](https://github.com/Mi-Bee-Studio/mibee-eye-raspi-go) | Lightweight Go ONVIF camera service for Raspberry Pi — ONVIF Device/Media/PTZ/Imaging, RTSP streaming, RTMP push, WS-Discovery for NVR/VMS integration |
+| [MiBee Eye camera family](https://github.com/xiqing85/mibee-eye-rs) | Turn any Linux board or PC into an ONVIF/GB28181 camera: Rust & Go implementations, PC capture agent, unified WebUI (maintained under xiqing85) |
 
 ---
 
