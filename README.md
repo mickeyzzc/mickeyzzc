@@ -25,7 +25,10 @@
 | [onvif-rs](https://github.com/mickeyzzc/onvif-rs) | ONVIF 设备端（服务端）Rust 库：Device/Media/Imaging/PTZ SOAP 服务、WS-Discovery 应答、WS-Security 鉴权；字节稳定响应，专为 NVR 对接适配 |
 | [gb28181-go](https://github.com/mickeyzzc/gb28181-go) | GB/T 28181-2016/2022 Go 库：设备端（UAC）与平台（UAS）双角色，SIP 信令、MANSCDP XML、RTP/PS 媒体与回放 |
 | [gb28181-rs](https://github.com/mickeyzzc/gb28181-rs) | GB/T 28181-2016/2022 Rust 设备端（UAC）库：SIP 信令、MANSCDP XML、RTP/PS 推流与回放 |
+| [onvif-c](https://github.com/mickeyzzc/onvif-c) | 面向 ESP-IDF 的纯 C ONVIF 设备端库：SOAP / WS-Discovery / Pull-Point 事件，零第三方依赖、约 10 KB 代码占用，脱胎于 MiBee Cam 固件，响应 XML 与 MiBee NVR 字节级一致 |
 | [hugo-themes-zhi](https://github.com/mickeyzzc/hugo-themes-zhi) | 极简 Hugo 博客主题：明暗模式、MathJax、Mermaid，纯 Hugo Pipes 零构建工具 |
+| [serialtap](https://github.com/mickeyzzc/serialtap) | 即插即抓的 USB 串口中间件（Go 单二进制，Linux / Windows / macOS）：热插拔捕获、错误事件流、esptool 编排、Web 面板，面向 ESP32 设备群调试 |
+| [wfp-device-sdk](https://github.com/mickeyzzc/wfp-device-sdk) | homepulse 家庭 IoT 平台的板端 SDK：可移植 C99 WFP 协议栈 + blackbox（ESP32 网络探测终端，Prometheus 兼容） |
 | [esp32 系列](https://github.com/orgs/Mi-Bee-Studio/repositories?q=esp32) | 多款 ESP32 摄像头固件：MJPEG 推流、移动侦测、OTA、Web 配置 |
 | [MiBee Eye 相机家族](https://github.com/xiqing85/mibee-eye-rs) | 把任意 Linux 板子/PC 变成 ONVIF/GB28181 摄像机：Rust/Go 双实现 + PC 采集端 + 统一 WebUI（xiqing85 账号维护） |
 
@@ -50,11 +53,23 @@ An Ops/DevOps engineer who grew from operations into development (known online i
 | [onvif-rs](https://github.com/mickeyzzc/onvif-rs) | ONVIF Device (server) library in Rust — SOAP Device/Media/Imaging/PTZ, WS-Discovery responder, WS-Security auth; byte-stable responses for NVR interop |
 | [gb28181-go](https://github.com/mickeyzzc/gb28181-go) | GB/T 28181-2016/2022 libraries for Go — device (UAC) and platform (UAS) roles: SIP signaling, MANSCDP XML, RTP/PS media, playback |
 | [gb28181-rs](https://github.com/mickeyzzc/gb28181-rs) | GB/T 28181-2016/2022 device-side (UAC) library for Rust — SIP signaling, MANSCDP XML, RTP/PS media push, playback |
+| [onvif-c](https://github.com/mickeyzzc/onvif-c) | ONVIF Device (server) library for ESP-IDF in plain C — SOAP / WS-Discovery / Pull-Point events, zero third-party deps, ~10 KB footprint; extracted from the MiBee Cam firmware, byte-stable against MiBee NVR |
 | [hugo-themes-zhi](https://github.com/mickeyzzc/hugo-themes-zhi) | Minimal Hugo blog theme built with pure Hugo Pipes |
+| [serialtap](https://github.com/mickeyzzc/serialtap) | Zero-touch USB serial middleware (single Go binary, Linux / Windows / macOS) — hot-plug capture, error-event stream, esptool orchestration, web panel; built for ESP32 fleet debugging |
+| [wfp-device-sdk](https://github.com/mickeyzzc/wfp-device-sdk) | Board-side SDK of the homepulse home-IoT platform — portable C99 WFP protocol stack + blackbox (ESP32 network probing terminal, Prometheus-compatible) |
 | [ESP32 series](https://github.com/orgs/Mi-Bee-Studio/repositories?q=esp32) | ESP32 camera firmwares: MJPEG streaming, motion detection, OTA, web config |
 | [MiBee Eye camera family](https://github.com/xiqing85/mibee-eye-rs) | Turn any Linux board or PC into an ONVIF/GB28181 camera: Rust & Go implementations, PC capture agent, unified WebUI (maintained under xiqing85) |
 
 ---
+
+### 公众号 / WeChat Official Account
+
+微信搜索「**蓝宝石的傻话**」或扫码关注，推送网络、可观测性与 IoT 实战笔记。
+Search **蓝宝石的傻话** in WeChat, or scan the QR code below.
+
+<p align="center">
+  <img src="assets/wechat-mp.png" alt="微信公众号：蓝宝石的傻话" width="450">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
