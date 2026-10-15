@@ -20,7 +20,6 @@
 | [MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) ⭐ | 轻量自托管 NVR，单二进制零依赖，RTSP/ONVIF/GB28181 接入，WebRTC/HLS 播放，可在低功耗 ARM 设备运行 |
 | [security-collector-exporter](https://github.com/mickeyzzc/security-collector-exporter) | 面向 Prometheus 的 Linux 安全信息采集器，已在某金融企业内部落地，解决等保项目监控问题 |
 | [MiBeeSteward](https://github.com/Mi-Bee-Studio/MiBeeSteward) | 设备管理与监控系统，SNMP/ICMP/HTTP 探测、网络扫描，单二进制部署 |
-| [MiBeeHive](https://github.com/Mi-Bee-Studio/MiBeeHive) | 轻量自托管运维工具供应链：自动收集并分发 APT/PyPI/NPM 等软件源 |
 | [stream-metrics-route](https://github.com/mickeyzzc/stream-metrics-route) | 高性能指标路由网关，双 Hashmod 调度，支持 Remote Write / Kafka / 熔断；已在某企业内部落地，支撑亿级高维数据的流计算处理 |
 | [onvif-go](https://github.com/mickeyzzc/onvif-go) | ONVIF 客户端 + 虚拟相机服务，零第三方依赖，兼容海康/Axis/大华等设备 |
 | [onvif-rs](https://github.com/mickeyzzc/onvif-rs) | ONVIF 设备端（服务端）Rust 库：Device/Media/Imaging/PTZ SOAP 服务、WS-Discovery 应答、WS-Security 鉴权；字节稳定响应，专为 NVR 对接适配 |
@@ -46,7 +45,6 @@ An Ops/DevOps engineer who grew from operations into development (known online i
 | [MiBeeNvr](https://github.com/Mi-Bee-Studio/MiBeeNvr) ⭐ | Lightweight self-hosted NVR — single static binary, zero deps; RTSP/ONVIF/GB28181 ingest, WebRTC/HLS playback, runs on low-power ARM |
 | [security-collector-exporter](https://github.com/mickeyzzc/security-collector-exporter) | Linux security information collector for Prometheus; deployed inside a financial enterprise for compliance (等保) monitoring |
 | [MiBeeSteward](https://github.com/Mi-Bee-Studio/MiBeeSteward) | Device management & monitoring: SNMP/ICMP/HTTP probing, network scanning, single-binary deploy |
-| [MiBeeHive](https://github.com/Mi-Bee-Studio/MiBeeHive) | Lightweight self-hosted ops-tooling supply chain — auto-collect and serve APT/PyPI/NPM sources, no agent |
 | [stream-metrics-route](https://github.com/mickeyzzc/stream-metrics-route) | High-performance metrics routing gateway with Remote Write / Kafka support; deployed in production to handle streaming computation of billions of high-dimensional metrics |
 | [onvif-go](https://github.com/mickeyzzc/onvif-go) | ONVIF client + virtual camera server in Go, zero third-party deps |
 | [onvif-rs](https://github.com/mickeyzzc/onvif-rs) | ONVIF Device (server) library in Rust — SOAP Device/Media/Imaging/PTZ, WS-Discovery responder, WS-Security auth; byte-stable responses for NVR interop |
